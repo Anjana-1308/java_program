@@ -1,5 +1,5 @@
 import java.util.*;
-class assignmentoperators 
+class arithmeticoperators 
 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
